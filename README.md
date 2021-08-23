@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my Github profile
+
+- I am an assistant professor at Católica Lisbon.
+- I work on data science and decision making.
+- I teach programming and time series analysis.
+
+In my repositories you can find code I have developed as part of my research.
 
 <!--
 **nicolobertani/nicolobertani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
