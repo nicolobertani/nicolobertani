@@ -1,5 +1,7 @@
 > Γηράσκω δ'αἰεὶ πολλὰ διδασκόμενος
+
 > I age always learning many things
+
 >> Solon
 
 --- 
