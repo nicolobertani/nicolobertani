@@ -1,8 +1,8 @@
-<p style="text-align: center;">Γηράσκω δ'αἰεὶ πολλὰ διδασκόμενος</p>
+<p align="center">Γηράσκω δ'αἰεὶ πολλὰ διδασκόμενος</p>
 
-<p style="text-align: center;">I age always learning many things</p>
+<p align="center">I age always learning many things</p>
 
-<p style="text-align: center;">Solon</p>
+<p align="center">Solon</p>
 
 --- 
 
