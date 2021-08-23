@@ -1,3 +1,9 @@
+> Γηράσκω δ'αἰεὶ πολλὰ διδασκόμενος
+> I age always learning many things
+>> Solon
+
+--- 
+
 ### Welcome to my Github profile
 
 - I am an assistant professor at Católica Lisbon.
